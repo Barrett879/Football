@@ -1,2 +1,2 @@
 # Football
-https://github.com/Barrett879/Football.git
+https://barrett879.github.io/Football/
